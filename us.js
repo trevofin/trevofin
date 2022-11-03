@@ -15,7 +15,7 @@ const messages = {
             data_level_3: 'A month or two',
             data_level_2: 'A week or two',
             data_level_1: 'A few days',
-            data_level_0_alt: 'a day or less',
+            data_level_0_alt: 'A day or less',
             data_level_0: 'Never Been Here',
             pt: 'pt | pts',
         },
