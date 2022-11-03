@@ -11,11 +11,11 @@ const messages = {
     English: {
         message: {
             data_level_5: 'Lived Here (1 yr+)',
-            data_level_4: '6 months',
-            data_level_3: '1 month',
+            data_level_4: 'Half a Year or so',
+            data_level_3: 'A month or two',
             data_level_2: 'A week or two',
-            data_level_1: 'A day',
-            data_level_0_alt: 'a few hours',
+            data_level_1: 'A few days',
+            data_level_0_alt: 'a day or less',
             data_level_0: 'Never Been Here',
             pt: 'pt | pts',
         },
